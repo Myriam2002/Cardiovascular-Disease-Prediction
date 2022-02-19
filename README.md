@@ -1,1 +1,3 @@
 # Cardiovascular-Disease-Prediction
+
+It is acknowledged that cardiovascular diseases are one of the eras epidemics, thus it is vital to facilitate the diagnosis process and increase its accuracy. In this paper, we explored the definition and general outline of cardiovascular diseases and then dove deep into analyzing and preprocessing our dataset using probability and statistical concepts to extract major insights that were represented in the form of graphs. Lastly, we modeled our dataset using three algorithms: logistic regression, KNN, and SVM. All three produced reasonably acceptable accuracies; however, the former stood out the most.
